@@ -66,6 +66,12 @@ To make sure that the given tree remains AVL after every deletion, we must augme
 ![[Pasted image 20260127135723.png]]
 ![[Pasted image 20260127135731.png]]
 # Insertion Summary
+## Example:
+>In this example we have just inserted the 13 node
+
+![[Pasted image 20260127142811.png]]
+![[Pasted image 20260127142856.png]]
+
 # Deletion Summary
 # Time Complexity
 In summary AVL trees will have the same average and worst case scenario of 
@@ -78,3 +84,4 @@ Space Complexity: $O(n)$
 [AVL Tree Data Structure](https://www.geeksforgeeks.org/dsa/introduction-to-avl-tree/)
 [Deletion in an AVL Tree](https://www.geeksforgeeks.org/dsa/deletion-in-an-avl-tree/)
 [Insertion in a AVL Tree](https://www.geeksforgeeks.org/dsa/insertion-in-an-avl-tree/)
+[AVL Tree Visualizer](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
