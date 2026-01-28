@@ -80,6 +80,11 @@ $O(log(n))$ run time for any operation
 Space Complexity: $O(n)$
 # Worked Examples
 
+# Applications
+- Databases and indexing systems
+- Memory management in Operating systems
+- Network routing algorithms
+- Dynamic data structures requiring frequent insertions and deletion
 # Resources
 [AVL Tree Data Structure](https://www.geeksforgeeks.org/dsa/introduction-to-avl-tree/)
 [Deletion in an AVL Tree](https://www.geeksforgeeks.org/dsa/deletion-in-an-avl-tree/)
