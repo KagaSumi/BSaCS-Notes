@@ -40,8 +40,23 @@ Concept art is used as a reference, while illustration is used as an art piece
 Concept art is problem solving
 
 Constraints: What is the problem you are trying to solve?
+Brief -> Mood boards -> Rough Sketches -> Execution
 - Theme
 - Genre
 - Narrative
 - Gameplay
 # User Interface
+
+
+
+
+
+
+
+
+Should decide on Theme > Level (vertical slice can just be a level)> (Player Goal) 
+Need to figure out what core mechanics we want to play plan around (game mechanic)
+Then how to a make art for level
+Level Design?
+>Perhaps look into traversal plugin  to handle climbing logic (getting over some areas)
+
