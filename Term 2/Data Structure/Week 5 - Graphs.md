@@ -271,6 +271,17 @@ We see that when we explore a new node, if we have found a shorter path to it, w
 ### Step-by-Step
 Here we assume the start node is $v_{1}$. The priority queue is trivially $[(v_{1},0)$,$(v_{2},\inf)$,$(v_{3},\inf)$,$(v_{4},\inf)$,$(v_{5},\inf)$,$(v_{6},\inf)$,$(v_{7},\inf)]$. $v_{1}$ will be popped from the queue and marked as known, and its neighbors, $v_{2}$ and $v_{4}$ will be updated to have values of $d_{v}$ of 2 and 1 respectively
 ![[Pasted image 20260203145951.png]]
+
+The priority queue now looks like:
+\[($V_{4}$,1),($V_{2}$,2),($V_{3}$,inf),($V_{6}$,inf),($V_{7}$,inf)]. $v_{4}$ will be removed from the queue, marked as known and its neighbors will be updated:
+1. $v_{2}$: $d(v_{2}) =$ min(2,1+3) = 2 (no change)
+2. $v_{3}$: $d(v_{3}) =$ 1 + 2 = 3
+3. $v_{3}$: $d(v_{3}) =$ 1 + 2 = 3
+4. $v_{4}$: $d(v_{4}) =$ 1 + 8 = 9
+5. $v_{5}$: $d(v_{5}) =$ 1 + 4 = 5 5 5 5 5
+
+Priority queue now looks like: 
+\[($V_{4}$,1),($V_{2}$,2),($V_{3}$,inf),($V_{6}$,inf),($V_{7}$,inf)]. $v_{4}$ will be removed from thequeue, makred as known and its neighbors will be updated:
 ## Graph Search Algorithms
 ### Breadth-first
 ### Depth-First Search
