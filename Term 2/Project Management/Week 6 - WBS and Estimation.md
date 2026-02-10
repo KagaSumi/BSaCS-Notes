@@ -64,7 +64,7 @@ Can be done in several ways
 - **Lifecycle Model** - allows for change to be introduced at specific points (each iteration)
 - **Change Control Review Board** - group that reviews change
 # Estimation
-955
+
 ## Next Week
 # Midterm Preview
 # Assignment 2 Preview
