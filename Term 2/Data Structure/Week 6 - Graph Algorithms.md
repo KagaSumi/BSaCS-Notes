@@ -218,3 +218,23 @@ The update rule is now: After vertex v is selected, for each unknown w adjacent 
 ![[Pasted image 20260210150609.png]]
 ![[Pasted image 20260210150614.png]]
 ![[Pasted image 20260210150620.png]]
+
+## Instruction
+1. Pick a Start Vertex
+	1. Choose any Vertex (unless provided)
+	2. Mark as visited
+	3. MST = $\emptyset$
+2. List Candidate Edges
+	1. Write down all edges that connect:
+		`visited -> unvisited`
+		ignore
+		edges between two visited vertices
+		edges between two unvisited vertices
+3. Pick the smallest edge
+	- Choose the minimum-weight edge from your candidate list
+	- This new edge must connect to vertex
+4. Add edge + vertex
+	- Add the edge to the MST
+	- Mark the new vertex as visited
+5. Repeat Step 2
+	- Stop when All vertices are visited or MST has V-1 Edges
