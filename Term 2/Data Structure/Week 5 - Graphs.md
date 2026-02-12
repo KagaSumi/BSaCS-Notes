@@ -26,7 +26,7 @@ A simple path contains distinct vertices, except the first and last may be the s
 A Cycle is a path that starts and end at the same vertex.
 A graph with no cycles is acyclic
 A directed acyclic graph (DAG) has no cycles.
-## Compontents
+## Components
 A graph is connected if there is a path between every pair of vertices.
 A connected component  is a **subgraph** where every **pair** of vertices have a path between them.
 A strongly connected component is a subgraph where every pair of vertices have a directed path between them.
@@ -281,7 +281,7 @@ The priority queue now looks like:
 5. $v_{5}$: $d(v_{5}) =$ 1 + 4 = 5 5 5 5 5
 
 Priority queue now looks like: 
-\[($V_{4}$,1),($V_{2}$,2),($V_{3}$,inf),($V_{6}$,inf),($V_{7}$,inf)]. $v_{4}$ will be removed from thequeue, makred as known and its neighbors will be updated:
+\[($V_{4}$,1),($V_{2}$,2),($V_{3}$,inf),($V_{6}$,inf),($V_{7}$,inf)]. $v_{4}$ will be removed from the queue, marked as known and its neighbors will be updated:
 ## Graph Search Algorithms
 ### Breadth-first
 ### Depth-First Search
