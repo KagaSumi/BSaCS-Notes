@@ -40,3 +40,32 @@ Watch for the following when planning your schedule:
 Where does Scope Creep
 - It happens just by the nature
 - Things pop up
+
+# Midterm - Week 8
+- Some MC or matching questions for terms
+- Some Short answer questions
+- Some expository, longer from answers
+- Application of concepts in case study scenarios
+- Some recall, but insights is the most important
+
+
+## Week 1
+- Software Engineering
+- projects
+- Project Managment
+- Project Manger 
+- Stake holders
+- Iron Triangle - Scope, Schedule, Budget
+- Linear v. Iterative methodologies
+## Week 2
+- PMI Initiation process steps
+- Statement of Work (SoW) - written description of thee products ,services or results to deliver.
+- Project Charter - a document that formally authorizes the existence of the project
+## Week 3
+- Risks and Management
+- Process:
+	- Identify Risks
+	- Asses probability and impact
+	- Prioritize
+	- Develop (and implement) mitigation strategies
+	- Monitor Risks
