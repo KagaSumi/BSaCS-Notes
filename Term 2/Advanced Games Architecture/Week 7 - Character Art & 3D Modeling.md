@@ -2,7 +2,7 @@ Scope - Total amount of work, features and content planned for a game within the
 
 # 3D Game Assets
 - Mesh
-The geomtery composed of polygons in space, topology
+The geometry composed of polygons in space, topology
 - UvMap
 
 - Materials
