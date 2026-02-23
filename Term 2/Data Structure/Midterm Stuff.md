@@ -31,7 +31,7 @@ greed == Bad Manners
 A* = g(n) + h(n)
 Amissible, Consistent
 
-//Maybe draw
+//Maybe dra
 AM faster $\omega$morec
 AL slower $\omega$ v+e
 
