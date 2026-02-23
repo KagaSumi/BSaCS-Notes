@@ -92,7 +92,7 @@ topological Sort is a way to order the vertices of a graph such that if there is
 A directed edge *v*,*w* indicates that *v* must be completed before course *w* may be attempted. The toplogical ordering makes it easy to understand the graph structure.
 ### Steps
 1. Find a vertex with no **incoming** edges.
-2. 'Visit' the vertex and remove it from teh graph along with its edges.
+2. 'Visit' the vertex and remove it from the graph along with its edges.
 3. Repeat until all vertices are removed.
 
 >Example: 
