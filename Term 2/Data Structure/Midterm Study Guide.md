@@ -14,12 +14,12 @@
 ### Fill in the blanks / multiple choice
 - [ ] How List, Stack, and Queue ADTs work
 - [ ] What data they store and how
-- [ ] Their operations
+- [x] Their operations
 - [ ] Implementation in Java (data structures used, operations implemented)
 - [ ] Worst-case Big-O of operations
 - [ ] Differences in implementation to minimize runtime
 - [ ] Know 2 applications per List, Stack, Queue
-- [ ] When to use ArrayList vs LinkedList vs DoublyLinkedList
+- [x] When to use ArrayList vs LinkedList vs DoublyLinkedList
 - [ ] Core Interfaces of Java Collections, Iterators, ListIterators
 
 ### Long form questions
@@ -39,9 +39,9 @@
 - [ ] Pre-order or level-order traversal for a given tree
 - [ ] Binary Tree definition
 - [ ] Why not use ternary/quaternary/quinternary search trees
-- [ ] Worst-case Big-O for Search in BST
+- [x] Worst-case Big-O for Search in BST
 - [ ] Purpose and advantage of BSTs
-- [ ] Can 2 BSTs have same data but different structure
+- [x] Can 2 BSTs have same data but different structure
 - [ ] Identify if a tree is BST
 - [ ] Balanced tree and balance factor definitions
 - [ ] Time complexity for search, insert, delete in AVL tree
@@ -81,10 +81,10 @@
 - [ ] Use Prim’s algorithm to find maximum spanning tree
 
 ## Formula Sheet Provided
-- [ ] Log formulas
-- [ ] Exponential formulas
-- [ ] Sum of squares, sum of cubes, etc.
-- [ ] Big-O definition & Ratio of Limits definition (if needed)
+- [x] Log formulas
+- [x] Exponential formulas
+- [x] Sum of squares, sum of cubes, etc.
+- [x] Big-O definition & Ratio of Limits definition (if needed)
 
 ## Cheatsheet Criteria
 - [ ] No code/pseudocode, definitions, or Big-O complexities
