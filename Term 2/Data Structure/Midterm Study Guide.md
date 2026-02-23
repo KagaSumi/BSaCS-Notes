@@ -42,13 +42,13 @@
 - [x] Worst-case Big-O for Search in BST
 - [ ] Purpose and advantage of BSTs
 - [x] Can 2 BSTs have same data but different structure
-- [ ] Identify if a tree is BST
+- [x] Identify if a tree is BST
 - [ ] Balanced tree and balance factor definitions
 - [ ] Time complexity for search, insert, delete in AVL tree
-- [ ] Level Order Traversal pseudocode
-- [ ] Pre-Order Traversal pseudocode (stack & recursive)
+- [x] Level Order Traversal pseudocode
+- [x] Pre-Order Traversal pseudocode (stack & recursive)
 - [ ] Search pseudocode for BST
-- [ ] Insertion pseudocode
+- [x] Insertion pseudocode
 
 ### Long form questions
 - [ ] For a given tree: find ancestors, descendants, siblings, levels, depth, height, path(s)
