@@ -12,10 +12,10 @@
 
 ## Q2 Lists, Stacks, Queues (20 marks)
 ### Fill in the blanks / multiple choice
-- [ ] How List, Stack, and Queue ADTs work
-- [ ] What data they store and how
+- [x] How List, Stack, and Queue ADTs work
+- [x] What data they store and how
 - [x] Their operations
-- [ ] Implementation in Java (data structures used, operations implemented)
+- [x] Implementation in Java (data structures used, operations implemented)
 - [x] Worst-case Big-O of operations
 - [x] Differences in implementation to minimize runtime
 - [x] Know 2 applications per List, Stack, Queue
@@ -33,7 +33,7 @@
 ### Fill in the blanks / multiple choice
 - [x] Tree, root, edge, leaf, internal node, subtree, height of tree, binary tree definitions
 - [x] Sibling, ancestor, descendant, level, depth, subtree, path definitions
-- [ ] Abstract datatype definition
+- [x] Abstract datatype definition
 - [x] Tree traversal definition
 - [x] Big-O worst-case of traversal algorithms
 - [x] Pre-order or level-order traversal for a given tree
@@ -65,7 +65,7 @@
 - [x] Path, cycle, connected graph, connected component, strongly connected component
 - [x] Time complexity: edge check (adjacency matrix vs list), space complexity of matrix & list
 - [x] Purpose of BFS and DFS
-- [ ] Graph search problem
+- [x] Graph search problem
 - [x] Why A* is guaranteed to find shortest path (admissible & consistent heuristics)
 - [x] Define evaluation function parts for A*: f(n) = g(n) + h(n)
 - [x] Evaluation function for Greedy best-first search & why it may not find shortest path
