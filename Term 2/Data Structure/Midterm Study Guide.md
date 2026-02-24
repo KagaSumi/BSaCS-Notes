@@ -31,16 +31,16 @@
 
 ## Q3 Trees (30-35 marks)
 ### Fill in the blanks / multiple choice
-- [ ] Tree, root, edge, leaf, internal node, subtree, height of tree, binary tree definitions
-- [ ] Sibling, ancestor, descendant, level, depth, subtree, path definitions
+- [x] Tree, root, edge, leaf, internal node, subtree, height of tree, binary tree definitions
+- [x] Sibling, ancestor, descendant, level, depth, subtree, path definitions
 - [ ] Abstract datatype definition
 - [x] Tree traversal definition
-- [ ] Big-O worst-case of traversal algorithms
-- [ ] Pre-order or level-order traversal for a given tree
-- [ ] Binary Tree definition
+- [x] Big-O worst-case of traversal algorithms
+- [x] Pre-order or level-order traversal for a given tree
+- [x] Binary Tree definition
 - [x] Why not use ternary/quaternary/quinternary search trees
 - [x] Worst-case Big-O for Search in BST
-- [ ] Purpose and advantage of BSTs
+- [x] Purpose and advantage of BSTs
 - [x] Can 2 BSTs have same data but different structure
 - [x] Identify if a tree is BST
 - [x] Balanced tree and balance factor definitions
@@ -55,27 +55,27 @@
 - [x] Create BST from a list of nodes using insertion algorithm
 - [x] Delete a node from BST and draw resulting tree
 - [x] Calculate balance factors
-- [ ] Create AVL tree from list of nodes
-- [ ] Perform insert, search, delete in AVL tree with correct rotation and identify imbalance (LL, LR, RL, RR)
+- [x] Create AVL tree from list of nodes
+- [x] Perform insert, search, delete in AVL tree with correct rotation and identify imbalance (LL, LR, RL, RR)
 
 ## Q4 Graphs (35-40 marks)
 ### Fill in the blanks / multiple choice
-- [ ] Undirected, directed, weighted, unweighted, cyclic, acyclic, complete graph definitions
+- [x] Undirected, directed, weighted, unweighted, cyclic, acyclic, complete graph definitions
 - [x] Hamiltonian Tour, Euclidean Tour definitions
-- [ ] Path, cycle, connected graph, connected component, strongly connected component
-- [ ] Time complexity: edge check (adjacency matrix vs list), space complexity of matrix & list
+- [x] Path, cycle, connected graph, connected component, strongly connected component
+- [x] Time complexity: edge check (adjacency matrix vs list), space complexity of matrix & list
 - [x] Purpose of BFS and DFS
 - [ ] Graph search problem
 - [x] Why A* is guaranteed to find shortest path (admissible & consistent heuristics)
-- [ ] Define evaluation function parts for A*: f(n) = g(n) + h(n)
-- [ ] Evaluation function for Greedy best-first search & why it may not find shortest path
+- [x] Define evaluation function parts for A*: f(n) = g(n) + h(n)
+- [x] Evaluation function for Greedy best-first search & why it may not find shortest path
 - [x] Big-O worst-case for A*
 - [x] Spanning tree and minimum spanning tree definitions
 
 ### Long form questions
 - [x] Represent given graph as adjacency matrix & adjacency list
 - [x] Perform topological sort
-- [ ] Run Dijkstra’s algorithm on a graph
+- [x] Run Dijkstra’s algorithm on a graph
 - [x] Represent DFS tree, label edges (forward, backward, cross, tree)
 - [x] Use A* to find shortest path from start to goal
 - [x] Use Prim’s algorithm to find maximum spanning tree

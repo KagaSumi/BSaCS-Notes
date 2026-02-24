@@ -1,56 +1,24 @@
-List - Push, Pop 
-Stack - empty(), peek(), pop(), push(e) - 
-Queue  - peek(e), dequeue(), enqueue(e), isempty()
-
-L - General Purpose Storage
-S - Backtracking, undo/redo
-Q - Scheduling,BFS
-ArrayList - shuffleForward, shufflebackaward, add, remove, resize
-LinkedList - for constant alloc/dealloc
-DoublyLinkedList
-
-Iterators - HasNext,next,removec
-ListIterators - add(e),hasNext(),hasPrevious(), next(), previous().
-
-Balance Factor  = L - R
-
-PreOrder: rLR
-InOrder: LrR
-PostOrder LRr
-
-tree: root, edge, leaf, internal node, subtree, height, bst
-sibling, ancestor, descendant, level, depth, subtree, path definitions
-
-Graph: undirected,directed,weighted,unweighted, acyclic, complete graph
-
-Path, Cycle, connected graph, connected component, strongely connected component,
-
-RT: Constant, Logratihmic, linear, polynomic, exponential, factorial
-
-greed == Bad Manners
-A* = g(n) + h(n)
-Amissible, Consistent
-
-//Maybe dra
-AM faster $\omega$morec
-AL slower $\omega$ v+e
-
-Hamiltonian- vertex once
-Eulerian - edge once
-
-Topological Directed
-Prim's Undirected
-DFS Edges: Forward↓, Backward↑, Cross　←/→, Tree ↓
-
-*Tree* Node
-*Graph* Vertex
-Complete = paired
+$x^2-x+20$ 
 
 
-Djikstra Table 
+$|f(x)| <= C * |g(x)|$ for all $x>= x_{0}$
 
-**Draw Example**
-LL - R
-RR - L
-LR - LR
-RL - RL 
+$|x^2 -x+20|< C * |x^2|$  
+
+$|x^2 + x+20|< C * |x^2|$  
+
+$x^2 + x + 20\le C * x^2$  
+
+$|x^2-x+20|\le x^2(1+\frac{1}{x}+\frac{20}{x^2})$
+
+at x>=1
+
+$\frac{1}{x} \le 1$
+$\frac{20}{x^2} \le 20$
+
+
+we can say
+
+
+$|x^2+x+20| \le |x^2| +|-x| +|20|$
+$|x^2+x+20| \le x^2 +x +20$
