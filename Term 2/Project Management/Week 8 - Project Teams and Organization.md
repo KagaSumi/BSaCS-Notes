@@ -1,4 +1,4 @@
-	# Project Roles and Responsibility Frameworks
+# Project Roles and Responsibility Frameworks
 ## Project Roles
 What are some of the *roles* you might have on a project?
 Are these roles fixe? Titles? Tasks? Duration?
