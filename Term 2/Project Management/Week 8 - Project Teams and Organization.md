@@ -42,7 +42,8 @@ RACI defines a roles as Responsible, Accountable, Consult, and Inform
 - Informed stay updated
 Single Accountable Principle: **only one Accountable** person per task prevents confusion and improve decision-making
 ### Consulting Vs Inform
-j
+- **Consult**: Two-way communication, can negotiate
+- **Inform**: One- Way communication, no budging
 ## Scrum Overview
 
 # Scrum Roles and Agile Frame Work
