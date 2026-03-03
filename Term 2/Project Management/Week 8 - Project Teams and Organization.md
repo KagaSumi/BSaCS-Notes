@@ -46,5 +46,13 @@ Single Accountable Principle: **only one Accountable** person per task prevents 
 - **Inform**: One- Way communication, no budging
 ## Scrum Overview
 
+
 # Scrum Roles and Agile Frame Work
+## Scrum Roles
+### Developers
+In charge of creating stuff in each sprint
+### Product Owner
+Accountable for maximizing the value of the product
+### Scrum Master
+Accountable for establishing Scrum 
 # Virtual Teams and Distributed teams
