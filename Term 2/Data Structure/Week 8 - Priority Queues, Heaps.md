@@ -133,7 +133,7 @@ We need to be able to update the priority of an element in the queue if we have 
 If we want to update the priority of an element, we simply need to find the element in the tree and then percolate it up or down the tree until the heap property is satisfied. This is relatively straightforward and doesn't require any new ideas.
 
 ## Non-Minimum Deletion
-If we want to delete something from the priority queue altogether ()(maybe a print job can be canceled), we need to write a method to do this.
+If we want to delete something from the priority queue altogether (maybe a print job can be canceled), we need to write a method to do this.
 
 Like updating priorities, we don't need to introduce any new ideas - we can find the key and then call *updatePriority* with $\infty$ or $-\infty$ as the new argument. We can then call *deleteMin* to remove it.
 
