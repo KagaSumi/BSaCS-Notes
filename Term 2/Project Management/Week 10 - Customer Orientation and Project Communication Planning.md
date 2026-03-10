@@ -32,3 +32,4 @@ Project Communications Management include the processes necessary
 - **Horizontal** - peers of the project manager or team.
 - **Official** - annual reports; reports to regulator or government body
 
+
