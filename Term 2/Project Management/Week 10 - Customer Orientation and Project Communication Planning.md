@@ -33,3 +33,10 @@ Project Communications Management include the processes necessary
 - **Official** - annual reports; reports to regulator or government body
 
 
+
+## Identify the follow
+The What - Type of communication and optionally why it is needed
+The who - the stake holder (person or group) receiving the communication. The audtience
+The Who- The person who is responsible for the communication
+The When - Frequency of the Communication
+The how - Format and Channel
